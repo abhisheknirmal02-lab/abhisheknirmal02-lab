@@ -22,17 +22,40 @@
 
 ## 🛠️ Tech Stack
 
+**📊 Data & BI**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
+</p>
+
+**🐍 Python Libraries**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" />
+</p>
+
+**🤖 AI Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-D4A574?logo=anthropic&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white&style=flat-square" />
+</p>
+
+**🖥️ Productivity & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MS%20Word-2B579A?logo=microsoft-word&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
 </p>
 
 ---
